@@ -11,7 +11,7 @@
 
 In an earlier lesson, we learned about _repetition statements_ —
 statements that allow us to break out of the default sequence and repeat a
-section of code multiple times. We also learned about two of JavaScript's
+section of code multiple times. We also learned about two of JavaScript'sA
 repetition constructs: the _while_ loop and the _do...while_ loop. In this lesson
 we will learn about a third: the _for_ loop.
 
